@@ -43,4 +43,4 @@ B站(bilibili)的实用脚本
 
 ### bilisignGroup.py
 
-[获取 cookie](https://github.com/Ranlajetech/bilibili_Useful_Scripts#%E8%8E%B7%E5%8F%96-cookie) 后无需进一步操作。
+[获取 cookie](https://github.com/Ranlajetech/bilibili_Useful_Scripts#%E8%8E%B7%E5%8F%96-cookie) 后无需进一步操作，直接运行脚本

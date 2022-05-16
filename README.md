@@ -35,7 +35,7 @@ B站(bilibili)的实用脚本
 
 ### bilidanmaku.py
 
-在 [获取 cookie](https://github.com/Ranlajetech/bilibili_Useful_Scripts/edit/main/README.md#%E8%8E%B7%E5%8F%96-cookie) 之后，还需要获取自己的 csrf 值：
+在 [获取 cookie](https://github.com/Ranlajetech/bilibili_Useful_Scripts#%E8%8E%B7%E5%8F%96-cookie) 之后，还需要获取自己的 csrf 值：
 
 1. 进入一个B站直播间（请尽量挑选一个未开播的直播间），打开开发者工具的 Network 选项卡，发送任意弹幕，会发现新增了一个名为 send 的数据，点击该数据并查看 payload 选项卡，找到键值 `csrf` 和 `csrf_token` （一般是相同的），复制该值
 2. 将刚复制的内容粘贴到第 41 行 `'csrf': ''` 和第 43 行 `'csrf_token': ''}` 的空单引号中并保存。关闭文件。
@@ -43,4 +43,4 @@ B站(bilibili)的实用脚本
 
 ### bilisignGroup.py
 
-[获取 cookie](https://github.com/Ranlajetech/bilibili_Useful_Scripts/edit/main/README.md#%E8%8E%B7%E5%8F%96-cookie) 后无需进一步操作。
+[获取 cookie](https://github.com/Ranlajetech/bilibili_Useful_Scripts#%E8%8E%B7%E5%8F%96-cookie) 后无需进一步操作。

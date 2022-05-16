@@ -1,5 +1,4 @@
-# bilibili_Useful_Scripts
-B站(bilibili)的实用脚本
+# B站(bilibili)实用脚本
 
 ## 已有脚本功能
 - bilidanmaku.py: 直播区签到（获得2个辣条）、向有勋章的直播间发送弹幕（对应勋章获得100经验值）
